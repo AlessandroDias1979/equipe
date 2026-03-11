@@ -77,5 +77,11 @@ main {
     width: 250px;
     height: 180px;
     object-fit: cover;
-
+}
+.footer{
+    background-color: #000000; /* preto */
+    color: #ffffff; /* branco */
+    text-align: center;
+    padding: 15px;
+    border-top: 4px solid #00A3E0; /* azul */
 }
