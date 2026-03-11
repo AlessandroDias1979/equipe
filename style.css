@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000000; /* preto */
+}
+
+main{
+    background-color: #ffffff; /* branco */
+    color: #000000; /* preto */
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    border-top: 5px solid #00A3E0; /* azul */
+    text-align: center;
+}
+
+main h2{
+    color: #00A3E0; /* azul */
+}
+
+main p{
+    line-height: 1.6;
+}
