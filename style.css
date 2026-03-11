@@ -56,3 +56,26 @@ main h2{
 main p{
     line-height: 1.6;
 }
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+main {
+    padding: 40px;
+}
+
+.galeria {
+    display: flex;          
+    justify-content: center; 
+    gap: 20px;              
+}
+
+.galeria img {
+    width: 250px;
+    height: 180px;
+    object-fit: cover;
+
+}
