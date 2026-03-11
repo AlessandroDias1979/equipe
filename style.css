@@ -1,0 +1,7 @@
+.footer{
+    background-color: #000000; /* preto */
+    color: #ffffff; /* branco */
+    text-align: center;
+    padding: 15px;
+    border-top: 4px solid #00A3E0; /* azul */
+}
