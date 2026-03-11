@@ -1,17 +1,17 @@
-mainEmpresa {
+.mainEmpresa {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 20px;
 }
 
-mainEmpresa h1 {
+.mainEmpresa h1 {
     font-size: 2.5em;
     margin-bottom: 20px;
     color: blue;
 }
 
-mainEmpresa p {
+.mainEmpresa p {
     font-size: 12px;
     margin-bottom: 20px;
     text-align: center;
